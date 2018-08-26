@@ -1,0 +1,9 @@
+name: Chewbacca
+type: theme
+description: 'My theme to work with drupalizeme'
+package: Custom
+core: 8.x
+libraries:
+  - chewbacca/global-styling
+
+base theme: classy
